@@ -9,6 +9,6 @@ import org.springframework.stereotype.Service;
 public class PageService {
     //将页面html保存到页面物理路径
     public void PageTest(String pageId){
-        System.out.print("已经输出了");
+        System.out.print("已经输出了。。");
     }
 }

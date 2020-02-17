@@ -1,0 +1,3 @@
+com\ningmeng\test\config\RabbitConfig.class
+com\ningmeng\test\rabbitmq.class
+com\ningmeng\test\TestRabbitmqApplication.class

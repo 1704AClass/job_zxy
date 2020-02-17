@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ningmeng.manage_cms.CmsPageRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.366 s - in com.ningmeng.manage_cms.CmsPageRepositoryTest

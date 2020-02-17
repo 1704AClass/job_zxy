@@ -1,0 +1,5 @@
+com\ningmeng\producer\Producer01.class
+com\ningmeng\producer\Producer05_header.class
+com\ningmeng\producer\Producer02_publish.class
+com\ningmeng\producer\Producer03_routing.class
+com\ningmeng\producer\Producer04_topics.class
